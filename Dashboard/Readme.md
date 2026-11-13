@@ -2,13 +2,6 @@
 
 This folder holds the Databricks AI/BI dashboard for the Hospital Billing Analytics project.
 
-## Files
-
-| File | Description |
-|---|---|
-| `Hospital_Billing_Analytics.pdf` | PDF export of the published dashboard |
-| `screenshots/` | Screenshots of each dashboard page |
-
 ## Dashboard Overview
 
 - **Tool:** Databricks AI/BI Dashboard
