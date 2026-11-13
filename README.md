@@ -1,5 +1,3 @@
-# Hospital_Billing_Data_Using_Databricks
-
 # Hospital Billing Analytics Platform
 
 A Databricks project that turns a messy hospital billing CSV into clean, trusted summary tables and a dashboard. It uses **Lakeflow Spark Declarative Pipelines (SQL)** and the **Medallion Architecture** (Bronze → Silver → Gold).
